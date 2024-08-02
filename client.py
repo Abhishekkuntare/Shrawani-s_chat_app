@@ -1,4 +1,3 @@
-# this is the abhishek's remote branch
 
 import socket
 import threading
