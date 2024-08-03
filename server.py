@@ -91,5 +91,3 @@ def receive():
 print("Server is running...")
 receive()
 
-
-# this is the end of server code
